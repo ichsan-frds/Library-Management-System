@@ -1,4 +1,5 @@
 # Library Management System
+![LibraryManagementSystemImage](https://github.com/user-attachments/assets/30008287-5d0b-43ff-84fb-c6a752ee9c07)
 
 This project is built using **Java** with a **Swing GUI** developed in **NetBeans IDE**.  
 The application allows users to manage book inventory, member records, and borrowing activities through an interactive desktop interface.
